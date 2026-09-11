@@ -7,7 +7,7 @@ Documentação detalhada da estrutura, tipos de dados e tratamentos aplicados na
 ## Estrutura das Colunas
 
 | Coluna | Tipo de Dado (Pandas) | Descrição |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **Linha** | `str` | Identificador da rota do veículo |
 | **Turno** | `str` | Período da operação (ex: Manhã, Tarde, Noite) |
 | **Consumo_Bateria_kWh** | `float64` | Consumo de energia em kWh por viagem |
